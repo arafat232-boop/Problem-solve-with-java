@@ -3,7 +3,9 @@
 import java.util.Scanner;
 
 public class code3 {
+
     public static void main(String[] args) {
+
         Scanner sn = new Scanner(System.in);
         System.out.print("Enter any number: ");
 
